@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Addict</string>
+    <string name="addict_name_string">Name</string>
+    <string name="target">Target</string>
+    <string name="repeat">Repeat</string>
+    <string name="reset_current">Reset Current</string>
+    <string name="reset_all">Reset All</string>
+</resources>
